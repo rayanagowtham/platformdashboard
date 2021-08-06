@@ -1,0 +1,10 @@
+[
+  {
+    "icon": "bx bx-user",
+    "content": "Admin Dashboard"
+  },
+  {
+    "icon": "bx bx-cog",
+    "content": "Settings"
+  }
+]
